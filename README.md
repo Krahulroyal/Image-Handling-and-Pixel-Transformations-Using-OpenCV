@@ -33,7 +33,7 @@ Split the image (boy.jpg) into B, G, R components and display the channel
 
 ## PROGRAM DEVELOPED BY:
 ~~~
-NAME : C DHANUSH
+NAME : C.DHANUSH
 REG NO: 212224040066
 ~~~
 
@@ -219,7 +219,7 @@ plt.show()
 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
 
-<img width="493" height="409" alt="a23402b8-cfee-4151-bd5b-8a2964697d1f" src="https://github.com/user-attachments/assets/b40cee8a-6145-4ffa-bbdf-84fae91b8fab" />
+![Screenshot 2025-03-09 154231](https://github.com/user-attachments/assets/31689cac-7a79-459c-9940-0adc26441782)
 
 
 
