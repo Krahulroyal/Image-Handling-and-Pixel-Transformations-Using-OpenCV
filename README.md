@@ -1,5 +1,6 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## name: k Rahul Royal
+## reg.no: 212224240126
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
